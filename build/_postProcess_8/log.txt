@@ -1,0 +1,1905 @@
+Args: "--input", "C:\Users\danni\.gradle\caches\forge_gradle\minecraft_user_repo\mcp\1.12.2-20200226.224830\joined\patch\output.jar", "--output", "C:\Users\danni\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.12.2-14.23.5.2859\forge-1.12.2-14.23.5.2859-decomp.jar"
+Classpath: C:\Users\danni\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\mcpcleanup\2.3.2\mcpcleanup-2.3.2-fatjar.jar
+WorkDir: E:\mdk\Project-The-lake-hides-secrets\build\_postProcess_8
+Main: net.minecraftforge.mcpcleanup.ConsoleTool
+====================================
+MCPCleanup: 
+  Input:     C:\Users\danni\.gradle\caches\forge_gradle\minecraft_user_repo\mcp\1.12.2-20200226.224830\joined\patch\output.jar
+  Output:    C:\Users\danni\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.12.2-14.23.5.2859\forge-1.12.2-14.23.5.2859-decomp.jar
+  FilterFML: false
+Processing file: mcp/MethodsReturnNonnullByDefault.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: mcp/client/Start.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/Advancement.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/AdvancementList.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/AdvancementManager.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/AdvancementProgress.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/AdvancementRewards.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/AdvancementTreeNode.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/CriteriaTriggers.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/Criterion.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/CriterionProgress.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/DisplayInfo.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/FrameType.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/FunctionManager.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/ICriterionInstance.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/ICriterionTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/PlayerAdvancements.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/AbstractCriterionInstance.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/BredAnimalsTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/BrewedPotionTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/ChangeDimensionTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/ConstructBeaconTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/ConsumeItemTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/CuredZombieVillagerTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/DamagePredicate.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/DamageSourcePredicate.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/DistancePredicate.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/EffectsChangedTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/EnchantedItemTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/EnchantmentPredicate.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/EnterBlockTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/EntityHurtPlayerTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/EntityPredicate.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/ImpossibleTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/InventoryChangeTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/ItemDurabilityTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/ItemPredicate.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/KilledTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/LevitationTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/LocationPredicate.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/MinMaxBounds.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/MobEffectsPredicate.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/NBTPredicate.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/NetherTravelTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/PlacedBlockTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/PlayerHurtEntityTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/PositionTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/RecipeUnlockedTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/SummonedEntityTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/TameAnimalTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/TickTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/UsedEnderEyeTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/UsedTotemTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/VillagerTradeTrigger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/critereon/package-info.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/advancements/package-info.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/Block.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockAir.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockAnvil.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockBanner.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockBarrier.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockBasePressurePlate.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockBeacon.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockBed.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockBeetroot.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockBone.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockBookshelf.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockBreakable.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockBrewingStand.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockBush.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockButton.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockButtonStone.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockButtonWood.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockCactus.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockCake.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockCarpet.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockCarrot.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockCauldron.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockChest.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockChorusFlower.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockChorusPlant.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockClay.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockCocoa.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockColored.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockCommandBlock.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockCompressedPowered.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockConcretePowder.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockContainer.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockCrops.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockDaylightDetector.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockDeadBush.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockDirectional.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockDirt.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockDispenser.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockDoor.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockDoublePlant.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockDoubleStoneSlab.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockDoubleStoneSlabNew.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockDoubleWoodSlab.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockDragonEgg.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockDropper.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockDynamicLiquid.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockEmptyDrops.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockEnchantmentTable.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockEndGateway.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockEndPortal.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockEndPortalFrame.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockEndRod.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockEnderChest.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockEventData.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockFalling.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockFarmland.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockFence.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockFenceGate.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockFire.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockFlower.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockFlowerPot.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockFrostedIce.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockFurnace.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockGlass.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockGlazedTerracotta.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockGlowstone.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockGrass.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockGrassPath.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockGravel.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockHalfStoneSlab.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockHalfStoneSlabNew.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockHalfWoodSlab.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockHardenedClay.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockHay.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockHopper.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockHorizontal.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockHugeMushroom.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockIce.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockJukebox.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockLadder.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockLeaves.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockLever.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockLilyPad.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockLiquid.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockLog.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockMagma.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockMelon.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockMobSpawner.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockMushroom.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockMycelium.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockNetherBrick.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockNetherWart.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockNetherrack.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockNewLeaf.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockNewLog.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockNote.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockObserver.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockObsidian.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockOldLeaf.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockOldLog.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockOre.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockPackedIce.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockPane.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockPistonBase.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockPistonExtension.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockPistonMoving.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockPlanks.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockPortal.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockPotato.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockPressurePlate.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockPressurePlateWeighted.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockPrismarine.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockPumpkin.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockPurpurSlab.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockQuartz.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockRail.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockRailBase.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockRailDetector.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockRailPowered.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockRedFlower.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockRedSandstone.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockRedstoneComparator.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockRedstoneDiode.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockRedstoneLight.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockRedstoneOre.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockRedstoneRepeater.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockRedstoneTorch.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockRedstoneWire.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockReed.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockRotatedPillar.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockSand.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockSandStone.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockSapling.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockSeaLantern.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockShulkerBox.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockSign.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockSilverfish.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockSkull.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockSlab.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockSlime.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockSnow.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockSnowBlock.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockSoulSand.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockSourceImpl.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockSponge.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockStainedGlass.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockStainedGlassPane.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockStainedHardenedClay.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockStairs.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockStandingSign.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockStaticLiquid.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockStem.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockStone.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockStoneBrick.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockStoneSlab.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockStoneSlabNew.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockStructure.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockStructureVoid.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockTNT.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockTallGrass.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockTorch.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockTrapDoor.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockTripWire.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockTripWireHook.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockVine.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockWall.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockWallSign.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockWeb.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockWoodSlab.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockWorkbench.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/BlockYellowFlower.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/IGrowable.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/ITileEntityProvider.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/SoundType.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/material/EnumPushReaction.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/material/MapColor.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/material/Material.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/material/MaterialLiquid.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/material/MaterialLogic.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/material/MaterialPortal.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/material/MaterialTransparent.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/material/package-info.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/package-info.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/properties/IProperty.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/properties/PropertyBool.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/properties/PropertyDirection.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/properties/PropertyEnum.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/properties/PropertyHelper.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/properties/PropertyInteger.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/properties/package-info.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/state/BlockFaceShape.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/state/BlockPistonStructureHelper.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/state/BlockStateBase.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/state/BlockStateContainer.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/state/BlockWorldState.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/state/IBlockBehaviors.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/state/IBlockProperties.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/state/IBlockState.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/state/package-info.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/state/pattern/BlockMatcher.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/state/pattern/BlockMaterialMatcher.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/state/pattern/BlockPattern.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/state/pattern/BlockStateMatcher.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/state/pattern/FactoryBlockPattern.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/block/state/pattern/package-info.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/AnvilConverterException.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/ClientBrandRetriever.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/LoadingScreenRenderer.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/Minecraft.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/ElytraSound.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/GuardianSound.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/ISound.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/ISoundEventAccessor.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/ISoundEventListener.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/ITickableSound.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/MovingSound.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/MovingSoundMinecart.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/MovingSoundMinecartRiding.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/MusicTicker.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/PositionedSound.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/PositionedSoundRecord.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/Sound.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/SoundEventAccessor.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/SoundHandler.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/SoundList.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/SoundListSerializer.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/SoundManager.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/SoundRegistry.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/audio/package-info.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/entity/AbstractClientPlayer.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/entity/EntityOtherPlayerMP.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/entity/EntityPlayerSP.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/entity/package-info.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/BossInfoClient.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/ChatLine.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/FontRenderer.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/Gui.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiBossOverlay.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiButton.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiButtonImage.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiButtonLanguage.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiButtonRealmsProxy.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiButtonToggle.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiChat.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiClickableScrolledSelectionListProxy.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiCommandBlock.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiConfirmOpenLink.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiControls.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiCreateFlatWorld.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiCreateWorld.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiCustomizeSkin.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiCustomizeWorldScreen.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiDisconnected.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiDownloadTerrain.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiEnchantment.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiErrorScreen.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiFlatPresets.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiGameOver.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiHopper.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
+Processing file: net/minecraft/client/gui/GuiIngame.java
+  processing comments
+  fixing imports comments
+  various other cleanup
+  fixing OGL constants
+  formatting source
